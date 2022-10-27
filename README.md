@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dmitry
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h3 align="center">Junior .NET Software Developer from Ukraine🇺🇦</h3>
+<h3 align="center">.NET Software Developer from Ukraine🇺🇦</h3>
 <h3 align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/fan1ech00/">
