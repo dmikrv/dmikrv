@@ -4,10 +4,10 @@
 <h3 align="center">.NET Software Developer from Ukraine</h3>
 <h3 align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/fan1ech00/">
+    <a href="https://www.linkedin.com/in/dmikrv/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://t.me/fan1ech00">
+    <a href="https://t.me/dmikrv">
       <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
     </a>
   </div>
