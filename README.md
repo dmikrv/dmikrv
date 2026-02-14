@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/dmikrv/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://t.me/dmikrv">
+    <a href="https://t.me/dmitrykravchuk">
       <img src="https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
     </a>
   </div>
